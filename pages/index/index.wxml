@@ -1,0 +1,2 @@
+<!--index.wxml-->
+<view class='test' bindtap='bindViewTap'>测试</view>
